@@ -10,7 +10,7 @@ The purpose of this repository is to keep up with SQL syntax, especially in rela
 * Tableau
 
 ### Tableau Demos
-![Top 5 Crimes per Neighborhood Demo](Images/tableau_demo_gif.gif)
+![Top 5 Crimes per Neighborhood Demo](Images/top_5_demo.gif)
 
 
 ## Contact
